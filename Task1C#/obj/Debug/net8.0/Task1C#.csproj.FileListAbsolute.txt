@@ -1,0 +1,14 @@
+C:\Users\Coding School\Desktop\visual studio\Task1C#\bin\Debug\net8.0\Task1C#.exe
+C:\Users\Coding School\Desktop\visual studio\Task1C#\bin\Debug\net8.0\Task1C#.deps.json
+C:\Users\Coding School\Desktop\visual studio\Task1C#\bin\Debug\net8.0\Task1C#.runtimeconfig.json
+C:\Users\Coding School\Desktop\visual studio\Task1C#\bin\Debug\net8.0\Task1C#.dll
+C:\Users\Coding School\Desktop\visual studio\Task1C#\bin\Debug\net8.0\Task1C#.pdb
+C:\Users\Coding School\Desktop\visual studio\Task1C#\obj\Debug\net8.0\Task1C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding School\Desktop\visual studio\Task1C#\obj\Debug\net8.0\Task1C#.AssemblyInfoInputs.cache
+C:\Users\Coding School\Desktop\visual studio\Task1C#\obj\Debug\net8.0\Task1C#.AssemblyInfo.cs
+C:\Users\Coding School\Desktop\visual studio\Task1C#\obj\Debug\net8.0\Task1C#.csproj.CoreCompileInputs.cache
+C:\Users\Coding School\Desktop\visual studio\Task1C#\obj\Debug\net8.0\Task1C#.dll
+C:\Users\Coding School\Desktop\visual studio\Task1C#\obj\Debug\net8.0\refint\Task1C#.dll
+C:\Users\Coding School\Desktop\visual studio\Task1C#\obj\Debug\net8.0\Task1C#.pdb
+C:\Users\Coding School\Desktop\visual studio\Task1C#\obj\Debug\net8.0\Task1C#.genruntimeconfig.cache
+C:\Users\Coding School\Desktop\visual studio\Task1C#\obj\Debug\net8.0\ref\Task1C#.dll
