@@ -1,0 +1,15 @@
+C:\Users\Coding School\Desktop\visual studio\Function(3)\bin\Debug\net8.0\Function(3).exe
+C:\Users\Coding School\Desktop\visual studio\Function(3)\bin\Debug\net8.0\Function(3).deps.json
+C:\Users\Coding School\Desktop\visual studio\Function(3)\bin\Debug\net8.0\Function(3).runtimeconfig.json
+C:\Users\Coding School\Desktop\visual studio\Function(3)\bin\Debug\net8.0\Function(3).dll
+C:\Users\Coding School\Desktop\visual studio\Function(3)\bin\Debug\net8.0\Function(3).pdb
+C:\Users\Coding School\Desktop\visual studio\Function(3)\obj\Debug\net8.0\Function(3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding School\Desktop\visual studio\Function(3)\obj\Debug\net8.0\Function(3).AssemblyInfoInputs.cache
+C:\Users\Coding School\Desktop\visual studio\Function(3)\obj\Debug\net8.0\Function(3).AssemblyInfo.cs
+C:\Users\Coding School\Desktop\visual studio\Function(3)\obj\Debug\net8.0\Function(3).csproj.CoreCompileInputs.cache
+C:\Users\Coding School\Desktop\visual studio\Function(3)\obj\Debug\net8.0\Function(3).sourcelink.json
+C:\Users\Coding School\Desktop\visual studio\Function(3)\obj\Debug\net8.0\Function(3).dll
+C:\Users\Coding School\Desktop\visual studio\Function(3)\obj\Debug\net8.0\refint\Function(3).dll
+C:\Users\Coding School\Desktop\visual studio\Function(3)\obj\Debug\net8.0\Function(3).pdb
+C:\Users\Coding School\Desktop\visual studio\Function(3)\obj\Debug\net8.0\Function(3).genruntimeconfig.cache
+C:\Users\Coding School\Desktop\visual studio\Function(3)\obj\Debug\net8.0\ref\Function(3).dll
