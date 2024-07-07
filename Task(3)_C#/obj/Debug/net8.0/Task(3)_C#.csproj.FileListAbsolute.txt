@@ -1,0 +1,15 @@
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\bin\Debug\net8.0\Task(3)_C#.exe
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\bin\Debug\net8.0\Task(3)_C#.deps.json
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\bin\Debug\net8.0\Task(3)_C#.runtimeconfig.json
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\bin\Debug\net8.0\Task(3)_C#.dll
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\bin\Debug\net8.0\Task(3)_C#.pdb
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\obj\Debug\net8.0\Task(3)_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\obj\Debug\net8.0\Task(3)_C#.AssemblyInfoInputs.cache
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\obj\Debug\net8.0\Task(3)_C#.AssemblyInfo.cs
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\obj\Debug\net8.0\Task(3)_C#.csproj.CoreCompileInputs.cache
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\obj\Debug\net8.0\Task(3)_C#.sourcelink.json
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\obj\Debug\net8.0\Task(3)_C#.dll
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\obj\Debug\net8.0\refint\Task(3)_C#.dll
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\obj\Debug\net8.0\Task(3)_C#.pdb
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\obj\Debug\net8.0\Task(3)_C#.genruntimeconfig.cache
+C:\Users\Coding School\Desktop\visual studio\Task(3)_C#\obj\Debug\net8.0\ref\Task(3)_C#.dll
